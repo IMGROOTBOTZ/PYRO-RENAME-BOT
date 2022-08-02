@@ -38,7 +38,7 @@
             "required": false
         },
         "START_PIC": {
-            "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
+            "description": "Your Bot start cmd Pic from @GrootRenamer_bot",
             "value": "https://telegra.ph/file/04d08445dce68c9a57b25.jpg"
         }
     },
